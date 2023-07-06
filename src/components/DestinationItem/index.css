@@ -1,0 +1,10 @@
+.destination-image {
+  height: 200px;
+  width: 200px;
+}
+
+.item-bg-container {
+  display: flex;
+  flex-direction: column;
+  margin: 11px;
+}

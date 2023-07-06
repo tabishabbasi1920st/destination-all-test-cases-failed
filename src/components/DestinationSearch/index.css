@@ -1,0 +1,35 @@
+.main-bg-container {
+  min-height: 100vh;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.destination-search-heading {
+  font-size: 40px;
+  text-align: center;
+}
+
+.search-and-lens-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  height: 50px;
+  width: 250px;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.destination-container {
+  max-width: 490px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
